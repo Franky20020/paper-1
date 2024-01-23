@@ -7,4 +7,6 @@ git config --global user.email "lqs20020@163.com"
 git config --global --list
 
 
-ahahahah
+git config --global user.name "Qisheng liang"
+git config --global user.email "lqs20020@163.com"
+git config --global --list
