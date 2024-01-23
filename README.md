@@ -10,3 +10,5 @@ git config --global --list
 git config --global user.name "Qisheng liang"
 git config --global user.email "lqs20020@163.com"
 git config --global --list
+
+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
